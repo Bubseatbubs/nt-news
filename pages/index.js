@@ -25,9 +25,9 @@ export default function Home({ allPostsData }) {
       <div className={`${utilStyles.headingLg} ${utilStyles.center}`}>
            <h1>Latest News</h1>
       </div>
-      <ul className={utilStyles.list}>
+      <ul className={`${utilStyles.list}`}>
         {allPostsData.map(({ id, date, author, title }) => (
-          <li className={utilStyles.listItem} key={id}>
+          <li className={`${utilStyles.listItem}`} key={id}>
             <Link href={`/posts/${id}`}>{title}</Link>
             <br />
             <small className="headingSm">

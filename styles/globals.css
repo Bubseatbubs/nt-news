@@ -1,11 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Open+Sans:wght@300&family=Playfair+Display:wght@500&family=Roboto+Slab:wght@500&display=swap');
+
 html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu,
-    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: 'Merriweather', sans-serif;
   line-height: 1.6;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 * {
@@ -88,10 +89,6 @@ ul {
   gap: 30px;
 }
 
-.showcase-text {
-  animation: slideInFromLeft 1s ease-in;
-}
-
 .showcase-form {
   position: relative;
   top: 0px;
@@ -100,7 +97,6 @@ ul {
   padding: 40px;
   z-index: 100;
   justify-self: flex-end;
-  animation: slideInFromRight 1s ease-in;
 }
 
 .showcase-form .form-control {
@@ -140,6 +136,7 @@ ul {
   justify-content: center;
   align-items: center;
   padding-top: 60px;
+  animation: slideInFromBottom 0.5s ease-in;
 }
 
 .grid {
@@ -151,4 +148,47 @@ ul {
 
 .fa-newspaper {
   padding-right: 30px;
+}
+
+/* Animations */
+@keyframes slideInFromLeft {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromRight {
+  0% {
+    transform: translateX(100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromTop {
+  0% {
+    transform: translateY(-100%);
+  }
+
+  100% {
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInFromBottom {
+  0% {
+    opacity: 0;
+    transform: translateY(5%);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
 }
