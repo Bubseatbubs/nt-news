@@ -4,6 +4,11 @@ date: '2019-03-15'
 author: 'Jeebub Wilson'
 ---
 
+![Dannen](https://raw.githubusercontent.com/Bubseatbubs/nt-news/master/img/EmpireNew.png "Dannen himself")
+
+‎
+‎
+
 This week, the 2019 Empire campaign begins full force as candidates begin to express that they are running for emperor. Around five candidates have expressed themselves as running for this election.
 
 ‎
@@ -24,4 +29,6 @@ Ines Biller then announced that he was running for emperor only hours later. Thi
 
 ‎
 
-We conducted a poll to see who was ahead. Far ahead out of anyone else was Nozѐ, who was up at 53%. This is far more ahead than any other candidate. However, campaigning has just begun - stay tuned for more information on this election. 
+We conducted a poll to see who was ahead. Far ahead of anyone else was Nozѐ, who was up at 53%. This is far more ahead than any other candidate. However, campaigning has just begun - stay tuned for more information on this election. 
+
+![Dannen](https://raw.githubusercontent.com/Bubseatbubs/nt-news/master/img/poll1.png "Dannen himself")

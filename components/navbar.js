@@ -1,8 +1,15 @@
 import React from 'react';
 import Link from 'next/link';
 import styles from './layout.module.css';
+import SearchBar from "../components/SearchBar.js";
 
 const Navbar = () => {
+  const handleSearch = (searchTerm) => {
+    // Implement your search logic here
+    // For simplicity, we'll just log the search term for now
+    console.log("Search term:", searchTerm);
+  };
+
   return (
     <nav className="navbar">
       <div className="navbar-link">
@@ -18,14 +25,10 @@ const Navbar = () => {
         </div>
         <div className="navbar-link">
           <Link className={styles.navlink} href="/">
-            Articles
-          </Link>
-        </div>
-        <div className="navbar-link">
-          <Link className={styles.navlink} href="/">
             Contact
           </Link>
         </div>
+        <SearchBar onSearch={handleSearch} />
       </ul>
     </nav>
   );

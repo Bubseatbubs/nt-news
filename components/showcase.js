@@ -11,7 +11,7 @@ export default function Showcase() {
                 <div class="showcase-text">
                     <h1>Now Covering Multiple Worlds' Worth of News</h1>
                     <p>We've expanded our horizons! NT News will now deliver you news from <b>around</b> the realms!</p>
-                    <Link href="#">Read More...</Link>
+                    <Link href="./posts/worldwide-reports">Read More...</Link>
                 </div>
                 <i class="fas fa-newspaper fa-8x"></i>
             </div>
