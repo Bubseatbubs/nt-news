@@ -4,7 +4,7 @@ date: '2019-03-19'
 author: 'Billo Busso'
 ---
 
-Today, members of **Anti-Force** began a smear campaign against the current leader of the Empire, **Dannen**. Protesters were seen standing around the Empire holding up giant signs, all filled with hate against Dannen. These signs attacked Dannen’s physical features, stating statements such as: “This is not the face of the Empire!”
+Today, members of **Anti-Force** began a smear campaign against the current leader of the Empire, **Dannen**. Protesters were seen standing around the Empire holding up giant signs, all filled with attacks against Dannen. These signs attacked Dannen’s physical features, stating statements such as: “This is not the face of the Empire!”
 
 ‎
 ![Dannen](https://raw.githubusercontent.com/Bubseatbubs/nt-news/master/img/creepy.png "Dannen himself")
