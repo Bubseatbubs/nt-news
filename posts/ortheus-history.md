@@ -29,3 +29,5 @@ Other candidates have not expressed their opinion on their reports, including In
 ‎
 
 Unfortunately for Dannen, the vocal minority has caused many Nose Bubs to change their opinion on their former emperor. A poll conducted today now shows Dannen in third place:
+
+![Poll](https://raw.githubusercontent.com/Bubseatbubs/nt-news/master/img/poll2.png "Poll Conducted")
