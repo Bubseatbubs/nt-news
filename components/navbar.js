@@ -3,11 +3,6 @@ import Link from 'next/link';
 import styles from './layout.module.css';
 
 const Navbar = () => {
-  const handleSearch = (searchTerm) => {
-    // Implement your search logic here
-    // For simplicity, we'll just log the search term for now
-    console.log("Search term:", searchTerm);
-  };
 
   return (
     <nav className="navbar">
@@ -23,7 +18,7 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="navbar-link">
-          <Link className={styles.navlink} href="/">
+          <Link className={styles.navlink} href="/contact">
             Contact
           </Link>
         </div>

@@ -1,10 +1,10 @@
 ---
 title: '(UPDATE) Nose Bub, Bubla, Gone Missing'
-date: '0719-09-27'
+date: '0719-11-01'
 author: 'Weet Buz'
 ---
 
-One day after Bubla's disappearance, she was found back home safely at the Empire. When questioned, Bubla simply stated, "Sorry! I got lost while playing a game of hide and bub."
+Two days after Bubla's disappearance, she was found back home safely at the Empire. When questioned, Bubla simply stated, "Sorry! I got lost while playing a game of hide and bub."
 
 ‎
 

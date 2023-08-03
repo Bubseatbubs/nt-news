@@ -2,6 +2,7 @@ import Head from 'next/head';
 import Link from 'next/link';
 import Date from '../components/date';
 import Layout, { siteTitle } from '../components/layout';
+import styles from '../styles/Home.module.css';
 import utilStyles from '../styles/utils.module.css';
 import { getSortedPostsData } from '../lib/posts';
 
@@ -50,8 +51,9 @@ export default function Home({ onSearch, allPostsData }) {
       </div>
       <ul className={`${utilStyles.list}`}>
         {allPostsData.map(({ id, date, author, title }) => (
-          <li className={`${utilStyles.listItem}`} key={id}>
-            <Link href={`/posts/${id}`}>{title}</Link>
+          <Link className={`${styles.postlinks}`} href={`/posts/${id}`}>
+          <li className={`${styles.card} ${utilStyles.listItem}`} key={id}>
+            {title}
             <br />
             <small className="headingSm">
               {author}
@@ -61,6 +63,7 @@ export default function Home({ onSearch, allPostsData }) {
               <Date dateString={date} />
             </small>
           </li>
+          </Link>
         ))}
       </ul>
     </section>

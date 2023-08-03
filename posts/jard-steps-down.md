@@ -1,6 +1,6 @@
 ---
 title: 'Jard Suddenly Stepping Down From Campaign'
-date: '0719-04-06'
+date: '0719-08-21'
 author: 'Jeebub Wilson'
 ---
 

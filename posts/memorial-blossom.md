@@ -1,6 +1,6 @@
 ---
 title: 'Blossom Lord Memorial to be Held Tomorrow'
-date: '0723-08-04'
+date: '0720-08-04'
 author: 'Weet Buz'
 ---
 
