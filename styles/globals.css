@@ -142,6 +142,10 @@ ul {
   animation: slideInFromBottom 0.5s ease-in;
 }
 
+.newsheading {
+  justify-content: space-between;
+}
+
 .grid {
   display: flex;
   color: #fff;

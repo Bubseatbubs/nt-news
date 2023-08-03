@@ -14,7 +14,30 @@ export async function getStaticProps() {
   };
 }
 
-export default function Home({ allPostsData }) {
+export default function Home({ onSearch, allPostsData }) {
+  const filterSearch = (searchTerm) => {
+    var input, filter, ul, li, a, i;
+    input = searchTerm;
+    console.log("input is " + input);
+    filter = input.value.toUpperCase();
+    ul = document.getElementById("myMenu");
+    li = ul.allPostsData;
+    for (i = 0; i < li.length; i++) {
+      a = li[i].getElementsByTagName("a")[0];
+      if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+        li[i].style.display = "";
+      } else {
+        li[i].style.display = "none";
+      }
+    }
+  }
+
+  const handleSearch = (searchTerm) => {
+    // Implement your search logic here
+    // For simplicity, we'll just log the search term for now
+    console.log("Search term:", searchTerm);
+  };
+
   return (
     
     <Layout home>

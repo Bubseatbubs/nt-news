@@ -1,7 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
 import styles from './layout.module.css';
-import SearchBar from "../components/SearchBar.js";
 
 const Navbar = () => {
   const handleSearch = (searchTerm) => {
@@ -28,7 +27,6 @@ const Navbar = () => {
             Contact
           </Link>
         </div>
-        <SearchBar onSearch={handleSearch} />
       </ul>
     </nav>
   );
