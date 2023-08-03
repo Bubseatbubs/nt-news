@@ -1,6 +1,6 @@
 ---
 title: 'Dannen VS. Jard: Who is the Better Ruler?'
-date: '2019-03-29'
+date: '0719-03-29'
 author: 'Jeebub Wilson'
 ---
 
@@ -20,4 +20,4 @@ On the other hand, Jard has not done much as a political leader. When asked abou
 
 ‎
 
-Dannen, on the other hand, has shown his worth as a ruler of the Empire. While his military intelligence may not be as great as Jard’s, Dannen has shown that he can command an empire. As the two duke it out in the 2019 campaign, we can only wonder who will be the preferred emperor.
+Dannen, on the other hand, has shown his worth as a ruler of the Empire. While his military intelligence may not be as great as Jard’s, Dannen has shown that he can command an empire. As the two duke it out in the 719 campaign, we can only wonder who will be the preferred emperor.

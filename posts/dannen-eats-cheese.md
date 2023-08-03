@@ -1,6 +1,6 @@
 ---
 title: 'Dannen Eats Cheese for the First Time'
-date: '2020-06-24'
+date: '0720-06-24'
 author: 'Jeebub Wilson'
 ---
 

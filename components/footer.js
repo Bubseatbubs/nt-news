@@ -7,7 +7,7 @@ const Footer = () => {
         <div>
             <h1>NT News
             </h1>
-            <p>Copyright &copy; 2023</p>
+            <p>Copyright &copy; 723</p>
         </div>
         <div class="social">
             <a href="https://github.com/Bubseatbubs/nt-news"><i class="icon navlink fab fa-github fa-4x"></i></a>

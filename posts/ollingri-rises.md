@@ -1,6 +1,6 @@
 ---
 title: 'Ollingri Rises After 4 Years!'
-date: '2021-07-21'
+date: '0721-07-21'
 author: 'Bittel Battel'
 ---
 

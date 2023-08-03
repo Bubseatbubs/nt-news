@@ -1,6 +1,6 @@
 ---
 title: 'NT News has Upgraded to Realmswide Reporting'
-date: '2023-08-01'
+date: '0723-08-01'
 author: 'Jain Ethos'
 ---
 

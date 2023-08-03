@@ -1,6 +1,6 @@
 ---
 title: '(UPDATE) Nose Bub, Bubla, Gone Missing'
-date: '2019-09-27'
+date: '0719-09-27'
 author: 'Weet Buz'
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "2019 Empire Campaign Begins"
-date: '2019-03-15'
+title: "719 Empire Campaign Begins"
+date: '0719-03-15'
 author: 'Jeebub Wilson'
 ---
 
@@ -9,7 +9,7 @@ author: 'Jeebub Wilson'
 ‎
 ‎
 
-This week, the 2019 Empire campaign begins full force as candidates begin to express that they are running for emperor. Around five candidates have expressed themselves as running for this election.
+This week, the 719 Empire campaign begins full force as candidates begin to express that they are running for emperor. Around five candidates have expressed themselves as running for this election.
 
 ‎
 

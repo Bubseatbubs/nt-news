@@ -1,6 +1,6 @@
 ---
 title: "Rumor: Ortheus Spotted"
-date: '2019-04-19'
+date: '0719-04-19'
 author: 'Bittel Battel'
 ---
 
@@ -12,7 +12,7 @@ The initial witness of Ortheus, an Anti-Force member named **Bubbie Bore**, reco
 
 ‎
 
-Ortheus has been one of the most elusive figures of the century. Many years ago, Dannen and Ortheus had both ran for emperor together, and had won the election by a landslide. Ortheus was praised for his sharp-witted intelligence that was only rivaled by Dannen’s. However, on October 17th, 2014, Ortheus had mysteriously disappeared, leaving behind no traces of where he had gone. Because of his abandonment of the Empire, Ortheus has been labelled a traitor to the Empire. Even Dannen himself had publicly denounced Ortheus, claiming his former friend to be the "most dishonorable emperor," though sources claim that Dannen privately did not believe this to be the case. 
+Ortheus has been one of the most elusive figures of the century. Many years ago, Dannen and Ortheus had both ran for emperor together, and had won the election by a landslide. Ortheus was praised for his sharp-witted intelligence that was only rivaled by Dannen’s. However, on Baxtember 17th, 714, Ortheus had mysteriously disappeared, leaving behind no traces of where he had gone. Because of his abandonment of the Empire, Ortheus has been labelled a traitor to the Empire. Even Dannen himself had publicly denounced Ortheus, claiming his former friend to be the "most dishonorable emperor," though sources claim that Dannen privately did not believe this to be the case. 
 
 ‎
 

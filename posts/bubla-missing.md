@@ -1,6 +1,6 @@
 ---
 title: 'BREAKING: Nose Bub, Bubla, Gone Missing'
-date: '2019-09-26'
+date: '0719-09-26'
 author: 'Weet Buz'
 ---
 

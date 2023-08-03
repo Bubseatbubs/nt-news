@@ -1,6 +1,6 @@
 ---
 title: 'Insel der Katze: Dissecting the Myth'
-date: '2019-10-31'
+date: '0719-10-31'
 author: 'Bittel Battel'
 ---
 
