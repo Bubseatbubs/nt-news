@@ -7,7 +7,7 @@ author: 'Billo Busso'
 Today, members of **Anti-Force** began a smear campaign against the current leader of the Empire, **Dannen**. Protesters were seen standing around the Empire holding up giant signs, all filled with attacks against Dannen. These signs attacked Dannen’s physical features, stating statements such as: “This is not the face of the Empire!”
 
 ‎
-![Dannen](https://raw.githubusercontent.com/Bubseatbubs/nt-news/master/img/creepy.png "Dannen himself")
+![Dannen](https://raw.githubusercontent.com/Bubseatbubs/nt-news/master/img/Dannen_Smiling.png "Dannen himself")
 
 Some Anti-Force members claim that Dannen is simply not fit to rule due to his crippled face. An anonymous protester reports: “Dannen is trying to push what Bax was trying to push - more taxes on citizens to support the military!” Many protesters claim that the Anti-Force’s popularity will rise if Dannen continues to rule the Empire.
 
