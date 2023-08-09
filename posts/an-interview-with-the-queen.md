@@ -36,7 +36,7 @@ Aeodine is a newly promoted queen of spirits who has a large responsibility to f
 
 ‎
 
-**Aeodine:** [This section of the interview has been cut out.]
+**Aeodine:** [This section of the interview has been cut out.] The worst part was most definitely the Professional, though. [This section of the interview has been cut out.] And that bub with a shield traded blow after blow! [This section of the interview has been cut out.] We were almost turned into stardust.
 
 ‎
 
@@ -48,7 +48,7 @@ Aeodine is a newly promoted queen of spirits who has a large responsibility to f
 
 ‎
 
-**Ethos:** *Exhales deeply* Thank you for your time, queen Aeodine. It has been an honor.
+**Ethos:**  ...I-I see, that's quite a lot to do. Thank you for your time, queen Aeodine. It has been an honor.
 
 ‎
 
