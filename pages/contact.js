@@ -9,7 +9,10 @@ import utilStyles from '../styles/utils.module.css';
 export default function Contact() {
   return (
     <Layout>
-      <section class="features-head bg-primary py-3">
+      <Head>
+        <title>{siteTitle}</title>
+      </Head>
+      <section class="">
           <div class="container grid">
               <div>
                   <h1 class={`${utilStyles.center}`}>Contact Us</h1>

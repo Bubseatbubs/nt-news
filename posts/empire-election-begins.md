@@ -4,7 +4,7 @@ date: '0719-03-15'
 author: 'Jeebub Wilson'
 ---
 
-![Dannen](https://raw.githubusercontent.com/Bubseatbubs/nt-news/master/img/EmpireNew.png "Dannen himself")
+![Dannen](https://raw.githubusercontent.com/Bubseatbubs/nt-news/master/img/EmpireNew.png "The four candidates prepare to face off.")
 
 ‎
 ‎
