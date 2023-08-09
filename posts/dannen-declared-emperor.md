@@ -8,7 +8,7 @@ A massive turn of events has somehow made it so that Darren emerges victorious o
 
 ‎
 
-After Jard stepped down in June of 719, Dannen’s path seemed to be coming to an end, too. Even the candidate Noze was more popular than him. How did it come to this? After all, Dannen, has always been hailed as one of the greatest emperors of the Empire. Well, it seemed that Ines Biller’s smear campaign worked successfully. In this smear campaign, Biller pulled up history of Dannen’s relationship with Ortheus. Of course, many know of Ortheus as the ruler who mysteriously disappeared many years ago, and who re-emerged with a much darker personality. Biller claims that Ortheus now serves the true evil of the world - the abyss below us. This claim was laughed off, but still, people began to recall when Ortheus disappeared. It was in one of the worst times, too.
+After Jard stepped down in Fary, Dannen’s path seemed to be coming to an end, too. Even the candidate Noze was more popular than him. How did it come to this? After all, Dannen, has always been hailed as one of the greatest emperors of the Empire. Well, it seemed that Ines Biller’s smear campaign worked successfully. In this smear campaign, Biller pulled up history of Dannen’s relationship with Ortheus. Of course, many know of Ortheus as the ruler who mysteriously disappeared many years ago, and who re-emerged with a much darker personality. Biller claims that Ortheus now serves the true evil of the world - the abyss below us. This claim was laughed off, but still, people began to recall when Ortheus disappeared. It was in one of the worst times, too.
 
 ‎
 
