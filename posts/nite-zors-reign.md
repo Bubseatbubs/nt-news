@@ -8,7 +8,7 @@ Nite'Zor is a leader with a troubled past. Though he has governed quite fairly f
 
 ‎
 
-"There was a point in time where Nite'Zor would capture people for simply overstepping a little bit. Even something as minor as littering could land you in prison. A guy like that was something to be reckoned with," a Lost Spirit named Forvaire explained. "I can't lie - that experienced soured my opinion of him considerably."
+"There was a point in time where Nite'Zor would capture people for simply overstepping a little bit. Even something as minor as littering could land you in prison. A guy like that was something to be reckoned with," a Lost Spirit named Forvaire explained. "I can't lie - that experience soured my opinion of him considerably."
 
 ‎
 
@@ -16,7 +16,7 @@ Aleir, a Lost Spirit that was passing through Korazan during Nite'Zor's tyranny,
 
 ‎
 
-Knighters, a piece captured by Nite'Zor during this era, has forgiven him despite of his tyrannical past. "Yeah, he's made a lotta mistakes, but so have I. If he's making steps to fix what he broke and apologize to thsoe he's hurt, then I'm willing to forgive (though not forget)."
+Knighters, a piece captured by Nite'Zor during this era, has forgiven him despite of his tyrannical past. "Yeah, he's made a lotta mistakes, but so have I. If he's making steps to fix what he broke and apologize to those he's hurt, then I'm willing to forgive (though not forget)."
 
 ‎
 
@@ -28,4 +28,4 @@ Although many in Korazan are willing to give Nite'Zor a second chance, not all a
 
 ‎
 
-With Nite'Zor effectively given a second chance, many apprehensively wait to see if he will hold up to his word. Please stay tuned for any updates regarding this powerful piece.
+With Nite'Zor effectively given a second chance, many apprehensively wait to see if he will hold up to his word. Please stay tuned for any updates regarding the governor of Korazan.
