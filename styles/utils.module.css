@@ -70,10 +70,17 @@
 
   @media (max-width: 768px) {
     .list {
-      width: 100%;
+      width: 90%;
       grid-template-columns: repeat(1, 1fr);
       display: flex-column;
       max-width: 700px;
       margin-top: 1rem;
     }
+
+    .headingLg {
+      font-size: 2.5rem;
+      line-height: 1.4;
+      margin: 1rem 0;
+    }
+    
   }
