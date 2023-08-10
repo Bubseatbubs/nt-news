@@ -68,3 +68,12 @@
     color: #666;
   }
 
+  @media (max-width: 768px) {
+    .list {
+      width: 100%;
+      grid-template-columns: repeat(1, 1fr);
+      display: flex-column;
+      max-width: 700px;
+      margin-top: 1rem;
+    }
+  }

@@ -199,3 +199,17 @@ ul {
     transform: translateX(0);
   }
 }
+
+/* Tablets and under */
+@media (max-width: 1000px) {
+  .showcase {
+    height: 400px;
+  }
+}
+
+@media (max-width: 568px) {
+  .showcase {
+    height: 600px;
+  }
+}
+

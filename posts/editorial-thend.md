@@ -1,6 +1,6 @@
 ---
 title: "Editorial: Thend IS Justified"
-date: '0719-04-21'
+date: '0720-09-25'
 author: 'The Pro'
 ---
 
