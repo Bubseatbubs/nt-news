@@ -1,7 +1,7 @@
 ---
 title: "Editorial: Thend IS Justified"
 date: '0719-04-21'
-author: 'The Pro.'
+author: 'The Pro'
 ---
 
 We have recieved an editorial on the argument on whether Thend is justified. Once more, we are fully against Thend's actions, as they are both immoral and illegal. In that regard, we do not agree with the editorial, either, but are presenting it nevertheless:
