@@ -16,7 +16,7 @@ Thend, the leader of a rebellious gang of Snotty Berserkers, live on an undisclo
 
 ‎
 
-**Busso:** Apologies. Is the rest of it correct?
+**Busso:** Apologies. Is the rest of [the summary] correct?
 
 ‎
 
