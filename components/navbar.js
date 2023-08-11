@@ -18,6 +18,11 @@ const Navbar = () => {
           </Link>
         </div>
         <div className="navbar-link">
+          <Link className={styles.navlink} href="/about">
+            About
+          </Link>
+        </div>
+        <div className="navbar-link">
           <Link className={styles.navlink} target="_blank" href="https://forms.gle/6Q8ALi87qrF2hpeM7">
             Contact
           </Link>
