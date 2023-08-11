@@ -37,7 +37,7 @@ export default function Contact() {
       {/* Bittel Battel */}
       <section class={`${styles.card}`}>
         <div className={`${styles.showDesc}`}>Bittel Battel</div> 
-        <div className={`${styles.hide}`}>Bittel Battel was one of the many bubs that recieved Wilson's articles when Billy began to spread them throughout the realm. Inspired by his writings, Battel the bub begged to be brought on. Wilson graciously accepted the help, and Battel proved to be no slouch at reporting, himself. His article "Rumor: Ortheus Spotted" ultimately led to the creation of the group OrtheusWatch, which promised to locate the man himself. Battel continues to write for NT News to this day.</div>
+        <div className={`${styles.hide}`}>Bittel Battel was one of the many bubs that recieved Wilson's articles when Billy began to spread them throughout the realm. Inspired by his writings, Battel asked to join the team, which Wilson allowed. However, his poor reporting skills caused him to be dropped. Saddened, Battel only worked twice as hard to improve his work. Once he believed he was better, Battel the bub begged to be brought back. Wilson graciously accepted the help once more, and Battel proved to be no slouch at reporting this time. His article "Rumor: Ortheus Spotted" ultimately led to the creation of the group OrtheusWatch, which promised to locate the man himself. Battel continues to write for NT News to this day.</div>
       </section>
       
       {/* Boilin Vetcheiz */}
